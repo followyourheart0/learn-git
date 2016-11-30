@@ -1,4 +1,5 @@
 123
 hhh
 sss
-t has a mutable index called stage.
+t has a mutable index called stage
+Git tracks changes..
